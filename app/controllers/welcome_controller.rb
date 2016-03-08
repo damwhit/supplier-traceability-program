@@ -4,3 +4,4 @@ class WelcomeController < ApplicationController
     render text: "Welcome to the Supplier Traceability Program!"
   end
 end
+ddsd
